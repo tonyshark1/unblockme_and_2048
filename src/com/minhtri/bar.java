@@ -9,7 +9,7 @@ public class bar {
     private int y;
     private int length;
     private boolean isSpecial;
-    private state current;
+    private state_unblock_me current;
     private char letter;
 
     public bar(boolean _vertical,int _x,int _y,int _length, boolean _isSpecial){
